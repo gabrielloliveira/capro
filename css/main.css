@@ -1,0 +1,188 @@
+body {
+    font-size: 16px;
+}
+
+.formCenter {
+    margin: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.logo-inicial {
+    background-image: url(../img/logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.fundo-menu {
+    background-color: #274C77;
+}
+
+.logo h1 {
+    color: white;
+    font-size: 1.5rem;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.logo h1 strong {
+    color: white;
+}
+
+.logo {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.sair {
+    text-align: right;
+    margin-right: 1rem;
+    margin-top: 0.5rem;
+}
+
+.fundo-menu-esquerdo {
+    background-color: #436C94;
+}
+
+.menu-label {
+    color: white;
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.menu-list li a {
+    color: white;
+    margin-left: 0.5rem;
+}
+
+.menu-list li a:hover {
+    color: white;
+    background-color: #274C77;
+}
+
+.footer {
+    margin-top: -0.75rem;
+    background-color: #274C77;
+}
+
+.footer .content p {
+    color: white;
+}
+
+.footer .content p strong {
+    color: white;
+}
+
+.footer .content p a {
+    color: #A3CEF1;
+}
+
+.align-right {
+    text-align: right;
+    margin-top: 1rem;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.center a {
+    color: #6096BA;
+}
+
+.tabs {
+    margin-top: 10px;
+}
+
+.tabs li.is-active a {
+    border-bottom-color: #6096BA;
+    color: #6096BA;
+}
+
+#cadastro-projeto {
+    display: none;
+}
+
+#projetos-nao-fin {
+    display: none;
+}
+
+#projetos-fin {
+    display: none;
+}
+
+.sucesso {
+    color: #0E8D4E;
+}
+
+.erro {
+    color: #DF3D3D;
+}
+
+.margin {
+    margin-top: 0.3rem;
+}
+
+.finalizar-projeto button {
+    background-color: transparent;
+    border: none;
+    color: #3273dc;
+}
+
+.finalizar-projeto button:hover {
+    cursor: pointer;
+}
+
+.none {
+    display: none;
+}
+
+.selecionado {
+    display: block;
+}
+
+.ativarSanfona:hover {
+    cursor: pointer;
+}
+
+.editar-projeto button {
+    background-color: transparent;
+    border: none;
+    color: #DDBC3B;
+}
+
+.editar-projeto button:hover {
+    cursor: pointer;
+}
+
+.deletar-projeto button {
+    background-color: transparent;
+    border: none;
+    color: #ff3860;
+}
+
+.deletar-projeto button:hover {
+    cursor: pointer;
+}
+
+#projetos-pendentes {
+    display: none;
+}
+
+#projetos-pagos {
+    display: none;
+}
+
+.altura {
+    margin-bottom: 50vh;
+}
