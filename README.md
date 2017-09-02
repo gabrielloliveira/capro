@@ -6,9 +6,9 @@ Site simples para cadastrar projetos
 - MySQL 5.7 ou superior;
 
 ## Instalação
-- Execute o arquivo '''script.sql''';
-- Mude o arquivo '''conexao.php''' e coloque suas configurações do banco;
+- Execute o arquivo ```script.sql```;
+- Mude o arquivo ```conexao.php``` e coloque suas configurações do banco;
 - Entre dentro da pasta **capro**;
-- Inicie o servidor com '''$ php -S localhost:8000''';
+- Inicie o servidor com ```$ php -S localhost:8000```;
 
 Perfeito. Aproveite :)
