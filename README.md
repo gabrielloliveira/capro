@@ -1,8 +1,8 @@
 # CAPRO
 Site simples para cadastrar projetos
 
-##Requisitos
-- PHP - 7.0 ou superior;
+## Requisitos
+- PHP.7.0 ou superior;
 - MySQL 5.7 ou superior;
 
 ## Instalação
